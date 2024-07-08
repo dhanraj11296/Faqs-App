@@ -1,0 +1,25 @@
+.faqItem {
+  border: 1px solid #d7dae6;
+  border-radius: 15px;
+}
+.questionCOntainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.question {
+  color: #52606d;
+}
+.answer {
+  color: #9aa5b1;
+}
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.horizontalLine {
+  border: 1px solid #e4e7eb;
+}

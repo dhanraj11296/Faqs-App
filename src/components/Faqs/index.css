@@ -1,0 +1,21 @@
+.appContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f8;
+}
+.faqsContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border-radius: 15px;
+}
+.faqsList {
+  width: 100%;
+  list-style-type: none;
+}
+.heading {
+  color: #cb8805;
+}
